@@ -1,0 +1,7 @@
+body.rtl {
+    direction: rtl;
+}
+
+.pointer {
+    cursor: pointer;
+}
